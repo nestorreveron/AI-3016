@@ -1,3 +1,7 @@
+Linkedin: https://www.linkedin.com/in/nestorreveron/
+
+Youtube: https://youtu.be/uu_xK61JfzA?si=v9RUlL4q1gej8_gA
+
 # 🤖 AI-3016 — Develop Generative AI Apps in Azure AI Foundry
  
 > **Plataforma principal:** [Azure AI Foundry](https://ai.azure.com)
